@@ -1,3 +1,3 @@
 # My first DevOps Quest
 
-This is the main branch edit.
+Both changes merged: main + feature!
